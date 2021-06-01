@@ -1,6 +1,6 @@
 # PANDAS_HW
 
-# PyCity Schools Analysis – Utilizing Jupyter Notebook & the Pandas Library	Christine Mitchell
+# PyCity Schools Analysis – Utilizing Jupyter Notebook & the Pandas Library
 
 ## Overview and Purpose of the Project
 We were asked to complete an analysis on the PyCity School District test results utilizing Jupyter Notebook and the Pandas Library. With these tools, we were able to import and read the csv files of raw reporting data; then we were able to inspect, clean, and perform calculations with the data; and lastly, we created dataframe tables to complete our analysis of the school district results. We not only wanted to look at how the data rolled up at the district level, but we also wanted to see how the different schools faired amongst each other. The measurements evaluated were the following: 
