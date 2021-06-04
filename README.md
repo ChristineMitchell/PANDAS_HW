@@ -25,8 +25,7 @@ Unfortunately, upon completing our data slicing and dicing, we learned that ther
 
 The district summary remained relatively the same despite us adjusting the data by removing the math and reading scores of the 9th graders at Thomas High School. See below:
 
-
-![DistrictSummary](https://github.com/ChristineMitchell/PANDAS_HW/blob/main/School_District_Challenge/resources/01_DistrictSummary.PNG)
+![1](https://github.com/ChristineMitchell/PANDAS_HW/blob/main/School_District_Challenge/Resources/1.png)
  
       •	The total number of schools did not change, nor did the number of students in the district or the budget.
       •	The average math score dropped by .1 from 79.0 to 78.9 where there was only a -.13% change.
@@ -36,6 +35,8 @@ The district summary remained relatively the same despite us adjusting the data 
       •	Lastly, the percentage of students who passed both math and reading by 70% or more dropped by .3% with a -.46% change. 
 
 ### How is the school summary affected? 
+
+![1](https://github.com/ChristineMitchell/PANDAS_HW/blob/main/School_District_Challenge/Resources/1.png)
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
