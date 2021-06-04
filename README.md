@@ -74,5 +74,5 @@ While there was not a change once the data was cleaned, charter schools clearly 
 ![8](https://github.com/ChristineMitchell/PANDAS_HW/blob/main/School_District_Challenge/Resources/8.PNG)
 
 ## Summary
-### Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs
+In summary, there was not a significant change to our updated analysis accounting for the removal of the average reading and math scores for the freshman class at the charter school, Thomas High School. The only data tables that changed were the District Summary results with a minimal dip in the results and the Average Math and Reading Scores by Grade (only change were the results to NaN for 9th graders at Thomas High School).  All other data measurements remained the same. Thomas High School ranks 2nds in performance in Percentage of students passing both their reading and math assessments and no other school shifted in their position. Charter schools continue to outperform district schools. Larger schools with over 2,000 students continue to underperform. And, the more a school spends per student does not equate to higher performance.  
 
