@@ -6,15 +6,10 @@
 We were asked to complete an analysis on the PyCity School District test results utilizing Jupyter Notebook and the Pandas Library. With these tools, we were able to import and read the csv files of raw reporting data; then we were able to inspect, clean, and perform calculations with the data; and lastly, we created dataframe tables to complete our analysis of the school district results. We not only wanted to look at how the data rolled up at the district level, but we also wanted to see how the different schools faired amongst each other. The measurements evaluated were the following: 
 
       •	average math scores,
-
       •	average reading scores,
-
       •	the percentage of students who passed their math tests by 70% or more,
-
       •	the percentage of students who passed their reading test by 70% or more, as well as the
-
       •	the overall percentage of students who passed both their math and reading tests by 70% or more.
-
 
 We utilized the last measurement, overall percentage of students who passed both their math and reading tests by 70% or more, to determine the top five schools in the district, as well as the bottom five schools. 
 
@@ -39,24 +34,27 @@ The district summary remained relatively the same despite us adjusting the data 
 
 ### How is the school summary affected? 
 
-###How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
 There was little to no impact to the school summary results either. The top five schools and bottom five schools remained the same and in the same order. While the scores changed slightly for Thomas High School, the ranking remained the same relative to the other schools.  Again, despite removing the freshman class scores from Thomas High School, we can see that they remain a top performing school in the number two spot. See the top five schools below:
 
 When we scrubbed the data to address the concerns of academic misconduct, it was important ensure that we were calculating the measurements properly. We could not just remove the scores for the average math and reading score, but we had to recalculate the percentage measurements. To recalculate the percentage of students who passed their tests by 70% or more we not only removed the scores from the numerator, but we needed to update the student count in the denominator by removing the 9th grade students. If this was not done, our data would have been skewed, hence our analysis would have been wrong. As seen below: 
 
-###How does replacing the ninth-grade scores affect the following:
-Math and reading scores by grade:
+### How does replacing the ninth-grade scores affect the following:
+
+#### Math and reading scores by grade:
+
 Other than the 9th grade math and reading scores for Thomas High School changing from 83.6 to nan for math and 83.7 to nan for reading, all other scores were not impacted for the Math and Reading Scores by Grade since they are calculated separately. 
 
-As well, there was no impact to Scores by School Spending, Scores by School Size, or Scores by School Type. See below:
+#### As well, there was no impact to Scores by School Spending, Scores by School Size, or Scores by School Type. See below:
 
-Scores by School Spending:
+#### Scores by School Spending:
 While there was not a change once the data was cleaned, it is important to note that we do not see an improvement in score with increased spending. A matter of fact, we see the opposite. It would be interesting to look at the budgets to see what programs the money is being put towards.
  
-Scores by school size:
+#### Scores by school size:
 While there was not a change once the data was cleaned, it is important to note that larger schools are not performing as well as medium and smaller schools. 
  
-Scores by school type:
+#### Scores by school type:
 While there was not a change once the data was cleaned, charter schools clearly outperform district schools.
 
 
