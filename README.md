@@ -19,7 +19,7 @@ They wanted to look at the data from other angles as well. Because they wanted t
 
 Unfortunately, upon completing our data slicing and dicing, we learned that there was concern about the integrity of the freshman class results at one of the charter schools, Thomas High School, due to academic dishonesty. Therefore, we were tasked to “clean” the data by removing the math and reading results for the 9th graders at Thomas High School, re-run the analysis, and determine if the changes made impacted the overall analysis. 
 
-## Results - Using bulleted lists and images of DataFrames as support, address the following questions.
+## Results
 
 ### How is the district summary affected?
 
