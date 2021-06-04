@@ -25,7 +25,7 @@ Unfortunately, upon completing our data slicing and dicing, we learned that ther
 
 The district summary remained relatively the same despite us adjusting the data by removing the math and reading scores of the 9th graders at Thomas High School. See below:
 
-![DistrictSummary](https://github.com/ChristineMitchell/PANDAS_HW/blob/School_District_Analysis/resources/01_DistrictSummary.png)
+![DistrictSummary](https://github.com/ChristineMitchell/PANDAS_HW/blob/main/School_District_Analysis/resources/01_DistrictSummary.png)
  
       •	The total number of schools did not change, nor did the number of students in the district or the budget.
       •	The average math score dropped by .1 from 79.0 to 78.9 where there was only a -.13% change.
