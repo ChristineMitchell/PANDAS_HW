@@ -56,11 +56,11 @@ Other than the 9th grade math and reading scores for Thomas High School changing
 
 ![5](https://user-images.githubusercontent.com/82008319/120856847-05c34d00-c546-11eb-9a0b-fbd967513217.PNG)
 
-#### Remaining Scores Analysis:
+#### Remaining scores analysis:
 
-As well, there was no impact to Scores by School Spending, Scores by School Size, or Scores by School Type. See below.
+As well, there was no impact to scores by school spending, scores by school size, or scores by school type. See below.
 
-#### Scores by School Spending:
+#### Scores by school spending:
 While there was not a change once the data was cleaned, it is important to note that we do not see an improvement in the scores with increased spending. A matter of fact, we see the opposite. It would be interesting to look at the budgets to see what programs the money is being put towards.
 
 ![6](https://user-images.githubusercontent.com/82008319/120856881-107de200-c546-11eb-91ca-f1ff29d18018.PNG)
